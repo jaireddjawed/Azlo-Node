@@ -1,0 +1,25 @@
+{
+  "name": "azlo-node",
+  "version": "0.0.1",
+  "description": "Node Api Wrapper for Azlo Bank",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jaireddjawed/Azlo-Node.git"
+  },
+  "keywords": [
+    "azlo"
+  ],
+  "author": "Jaired Jawed <jaireddjawed.7@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jaireddjawed/Azlo-Node/issues"
+  },
+  "homepage": "https://github.com/jaireddjawed/Azlo-Node#readme",
+  "dependencies": {
+    "request": "^2.88.0"
+  }
+}
