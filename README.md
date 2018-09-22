@@ -6,6 +6,5 @@ A Node.js API wrapper for Azlo Bank. <a href="https://azlo.com">Azlo</a> is a co
 Pull the wrapper from Npm.
 ```
 npm i --save azlo-node
-
 ```
 
