@@ -1,6 +1,6 @@
 {
   "name": "azlo-node",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "description": "Node Api Wrapper for Azlo Bank",
   "main": "index.js",
   "scripts": {
