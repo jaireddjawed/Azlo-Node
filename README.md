@@ -1,7 +1,5 @@
 # Azlo-Node
-Node Api Wrapper for Azlo Bank
-<p>Azlo is a bank soley online and backed by BBVA Compass. You can sign up for an account at azlo.com.</p>
 
-# Installation
+A Node.js API wrapper for Azlo Bank. <a href="https://azlo.com">Azlo</a> is a completely online business bank account backed by BBVA Compass.
 
-``` npm install --save azlo-node ```
+
