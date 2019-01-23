@@ -24,7 +24,7 @@ const accounts = await azlo.accounts.list({
 
 You also can use a callback instead
 
-```
+```js
 azlo.accounts.list({ unmask: true }, (error, accounts) => {
   if (error) {
     console.log(error);
