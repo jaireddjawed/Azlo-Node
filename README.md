@@ -15,7 +15,7 @@ The package needs to be configured with your API key which can be found on the A
 
 const azlo = require('azlo-node')('YOUR_API_KEY');
 
-// Will show all of the user's accounts with full numbers
+// Will show all of the user's accounts with full numbers shown
 const accounts = await azlo.accounts.list({
   unmask: true
 });
