@@ -2,6 +2,8 @@
 
 A Node.js API wrapper for Azlo Bank. [Azlo](https://azlo.com) is a completely online business bank account backed by BBVA Compass.
 
+## This repository is no longer active. [Azlo](https://www.cnbc.com/select/banking-options-for-freelancers-small-business-owners) is closed.
+
 ### Prequistes
 * Install the Azlo-Node npm library.
 ```
